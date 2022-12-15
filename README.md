@@ -1,8 +1,8 @@
-# Team 51
+# Append App
 
 # Deployment URL
 
-The URL to our deployed app is: https://appendapp.herokuapp.com/
+Unfortunately due to Heroku sunsetting their free tier, this project is not hosted. You can still proceed to run it locally below.
 
 # To run the app:
 
